@@ -1,0 +1,11 @@
+@font-face {
+    font-family:fonte legal;
+    src: url(./fonts/SedgwickAveDisplay-Regular.ttf);
+}
+
+h1{
+    font-family:fonte legal;
+    font-size: 80px;
+    font-style: italic;
+    color: aquamarine;
+}
